@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Araliya Alwis\\Downloads\\SPOTTY_NEW\\SPOTTY\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Araliya Alwis\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Araliya Alwis\\Downloads\\SPOTTY_NEW\\SPOTTY\\sdk\\.cxx\\RelWithDebInfo\\5q38ny1r\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Araliya Alwis\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Araliya Alwis\\Downloads\\SPOTTY_NEW\\SPOTTY\\sdk\\.cxx\\RelWithDebInfo\\5q38ny1r\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-RelWithDebInfo-x86_64": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "C:\\Users\\Araliya Alwis\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Araliya Alwis\\Downloads\\SPOTTY_NEW\\SPOTTY\\sdk\\.cxx\\RelWithDebInfo\\5q38ny1r\\x86_64",
+        "opencv_jni_shared"
+      ],
+      "abi": "x86_64",
+      "output": "C:\\Users\\Araliya Alwis\\Downloads\\SPOTTY_NEW\\SPOTTY\\sdk\\.cxx\\RelWithDebInfo\\5q38ny1r\\x86_64\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

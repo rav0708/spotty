@@ -22,7 +22,8 @@ public class menu extends AppCompatActivity {
         launch_camera.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View view) {
-                 startActivity(new Intent(menu.this,camera_launch.class).addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP));
+                 //startActivity(new Intent(menu.this,camlaunch.class).addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP));
+                 startActivity(new Intent(menu.this,camlaunch.class));
              }
          });
 
