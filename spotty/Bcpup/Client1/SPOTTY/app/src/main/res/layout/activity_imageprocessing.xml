@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#041f36"
+    tools:context=".imageprocessing">
+
+    <!--    <EditText-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/imgPath"-->
+    <!--        android:hint="Image Path Appears Here"/>-->
+
+    <Button
+        android:layout_width="450dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/shapes2"
+        android:backgroundTint="#FFCE2B"
+        android:onClick="selectImage"
+        android:text="Select the Image"
+        android:textColor="#362624"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Image Selected"
+        android:id="@+id/numSelectedImages"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="#988734"/>
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="IPv4 Address"
+            android:textStyle="bold"
+            android:textColor="#988734" />
+
+        <EditText
+            android:id="@+id/IPAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:singleLine="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+-->
+   <!-- <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Port Number"
+            android:textStyle="bold"
+            android:textColor="#988734"/>
+
+        <EditText
+            android:id="@+id/portNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:inputType="number"
+            android:singleLine="true"
+            android:textStyle="bold" />
+    </LinearLayout>
+-->
+
+    <Button
+        android:id="@+id/upload"
+        android:layout_width="431dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/shapes2"
+        android:backgroundTint="#FFCE2B"
+        android:onClick="connectServer"
+        android:text="Upload the image"
+        android:textColor="#362624"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/responseText"
+        android:layout_width="424dp"
+        android:layout_height="146dp"
+        android:text="Connection Status"
+        android:textAlignment="center"
+        android:textColor="#FF0000"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="422dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bucketwhite" />
+
+
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\nAbout Us\nRights reserved by Ahmed Fawzy Gad 2019 (https://www.linkedin.com/in/ahmedfgad).\n\n
+The GitHub project is available here:\nhttps://github.com/ahmedfgad/AndroidFlask\n\n
+The project is documented in a tutorial at HeartBeat:\nhttps://heartbeat.fritz.ai/uploading-images-from-android-to-a-python-based-flask-server-691e4092a95e"
+        android:autoLink="web"
+        android:textAlignment="center"
+        android:textColor="#988734"
+        android:textStyle="bold"/>-->
+   <!-- <Button
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Connect"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+</LinearLayout>

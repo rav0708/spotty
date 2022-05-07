@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Male">MALE</string>
+    <string name="Female">FEMALE</string>
+    <string name="Other">OTHER</string>
+
+    <string name="Warm">WARM</string>
+    <string name="Cool">COOL</string>
+    <string name="Neutral">NEUTRAL</string>
+
+    <string-array name="Building_type">
+        <item>--Select a building type--</item>
+        <item>Residential</item>
+        <item>CooperateOffices</item>
+        <item>Academics</item>
+        <item>HealthCare</item>
+
+    </string-array>
+
+    <string-array name="Compartment_type">
+        <item>--Select a compartment--</item>
+        <item>BedRoom</item>
+        <item>DiningRoom</item>
+        <item>LivingRoom</item>
+        <item>Kitchen</item>
+        <item>Workspace</item>
+
+    </string-array>
+    
+    <string name="txtText">This is home page</string>
+
+
+
+
+
+    <!--
+        <string name="google_api_key">AIzaSyBe39bYq94yqv4xn33ym1i43HXv5d5qROc</string>
+
+        <string name="location_permission">Location Permission</string>
+        <string name="location_permission_message">You have to enable location permission.\n\nGo to app settings > Permissions > Enable Location</string>
+        <string name="ok">OK</string>
+        <string name="select_location">Select Your location</string>
+        <string name="current_location">Current Locat</string>
+        <string name="set_location">Set Location</string>
+    -->
+
+
+</resources>

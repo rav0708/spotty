@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SPOTTY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">blank fragment</string>
+
+    //Headings
+    <string name="heading_one">LET US GET STARTED</string>
+    <string name="heading_two"> </string>
+    <string name="heading_three">STEP 1</string>
+    <string name="heading_fourth">STEP 2</string>
+
+    //Description
+    <string name="desc_one">SPOTTY WILL TAKE YOU ON AN EXCLUSIVE JOURNEY TO PICK THE BEST MATCH FOR YOUR SPACE </string>
+    <string name="desc_two">GET YOURSELF AN ON-HAND EXPERIENCE WITH MOST IDEAL COLOUR SECTRUM SUGGESTED JUST IN FEW CLICKS!</string>
+    <string name="desc_three">Provide your preferences in the given questionnaire beforehand capturing an image.Then select the option SCAN  from the main menu and focus your mobile camera towards the wall to be painted and capture a clear view of the wall. Select the captured picture and hit on the upload button</string>
+    <string name="desc_fourth">Try out the suggested colours on the image uploaded in real-time. Enjoy!</string>
+    <string name="title_activity_googlemap">googlemap</string>
+
+
+</resources>

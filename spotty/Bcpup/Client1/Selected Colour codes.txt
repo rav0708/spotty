@@ -1,0 +1,74 @@
+#fafe4b   xkcd:banana yellow
+#c760ff   xkcd:bright lavender
+#9cbb04   xkcd:bright olive
+#fec615   xkcd:golden yellow
+#dfc5fe   xkcd:light lavender
+#f7d560   xkcd:light mustard
+#ffd8b1   xkcd:light peach
+#7ef4cc   xkcd:light turquoise
+#fffe71   xkcd:pastel yellow
+#d99b82   xkcd:pinkish tan
+#fb7d07   xkcd:pumpkin orange
+#ffe36e   xkcd:yellow tan
+#7bf2da   xkcd:tiffany blue
+#a66fb5   xkcd:soft purple
+#c0fa8b   xkcd:pistachio
+#d99b82   xkcd:pinkish tan
+#b0ff9d   xkcd:pastel green
+#bdf6fe   xkcd:pale sky blue
+#805b87   xkcd:muted purple
+#70b23f   xkcd:nasty green
+#3b719f   xkcd:muted blue
+#805b87   xkcd:muted purple
+#f1f33f   xkcd:off yellow
+#03719c   xkcd:ocean blue
+#c2b709   xkcd:olive yellow
+#ffa756   xkcd:pale orange
+#8e82fe   xkcd:periwinkle
+#ddd618   xkcd:piss yellow
+#98568d   xkcd:purpleish
+#fdee73   xkcd:sandy yellow
+#78d1b6   xkcd:seafoam blue
+#78d1b6   xkcd:seafoam blue
+#d0e429   xkcd:sickly yellow
+#24bca8   xkcd:tealish
+#4e518b   xkcd:twilight
+#c69f59   xkcd:camel
+#ffffc2   xkcd:cream
+#fffd78   xkcd:custard
+#fff39a   xkcd:dark cream
+#feffca   xkcd:ecru
+#fffcc4   xkcd:egg shell
+#c3909b   xkcd:grey pink
+#5e9b8a   xkcd:grey teal
+#d6fffa   xkcd:ice
+#ffffcb   xkcd:ivory
+#1fa774   xkcd:jade
+#b6ffbb   xkcd:light mint
+#fff9d0   xkcd:pale
+#b8ffeb   xkcd:pale aqua
+#eecffe   xkcd:pale lavender
+#6ba353   xkcd:off green
+#280137   xkcd:midnight purple
+#020035   xkcd:midnight blue
+#657432   xkcd:muddy green
+#380282   xkcd:indigo
+#7bb274   xkcd:faded green
+#916e99   xkcd:faded purple
+#548d44   xkcd:fern green
+#5a86ad   xkcd:dusty blue
+#017374   xkcd:deep turquoise
+#00555a   xkcd:deep teal
+#c87606   xkcd:dirty orange
+#734a65   xkcd:dirty purple
+#fdb0c0   xkcd:soft pink
+#65ab7c   xkcd:tea
+#acbb0d   xkcd:snot
+#6488ea   xkcd:soft blue
+#a66fb5   xkcd:soft purple
+#2976bb   xkcd:bluish
+#c9b003   xkcd:brownish yellow
+#7ebd01   xkcd:dark lime green
+#fddc5c   xkcd:light gold
+
+
