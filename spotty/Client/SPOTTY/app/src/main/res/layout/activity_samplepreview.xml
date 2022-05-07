@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".samplepreview">
+
+
+
+
+<!--       <ImageView-->
+<!--            android:id="@+id/imageV1"-->
+<!--            android:layout_width="494dp"-->
+<!--            android:layout_height="937dp"-->
+<!--            android:layout_marginBottom="4dp"-->
+<!--            android:backgroundTint="@color/white"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:srcCompat="@drawable/path_263"-->
+<!--            tools:layout_editor_absoluteX="128dp" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/imageV2"-->
+<!--            android:layout_width="479dp"-->
+<!--            android:layout_height="538dp"-->
+<!--            android:layout_marginEnd="180dp"-->
+<!--            android:layout_marginBottom="376dp"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:srcCompat="@drawable/ellipse_97" />-->
+
+    <Button
+        android:id="@+id/preview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/shapes2"
+        android:backgroundTint="#367588"
+        android:text="PREVIEW" />
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/preview1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>
+<!--<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    tools:context=".samplepreview"-->
+<!--    android:background="#FFFFFF"-->
+<!--    >-->
+
+<!--   <ImageView-->
+<!--        android:id="@+id/imageV1"-->
+<!--        android:layout_width="494dp"-->
+<!--        android:layout_height="937dp"-->
+<!--        android:layout_marginBottom="4dp"-->
+<!--        android:backgroundTint="@color/white"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:srcCompat="@drawable/path_263"-->
+<!--        tools:layout_editor_absoluteX="128dp" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageV2"-->
+<!--        android:layout_width="479dp"-->
+<!--        android:layout_height="538dp"-->
+<!--        android:layout_marginEnd="180dp"-->
+<!--        android:layout_marginBottom="376dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:srcCompat="@drawable/ellipse_97" />-->
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView8"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="82dp"-->
+<!--        android:alpha="1.8"-->
+<!--        android:fontFamily="sans-serif-medium"-->
+<!--        android:text="HAVE A VIEW ON  "-->
+<!--        android:textAlignment="textStart"-->
+<!--        android:textColor="#69757B"-->
+<!--        android:textSize="26sp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.373"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.046" />-->
+
+<!--   <TextView-->
+<!--       android:id="@+id/textView"-->
+<!--       android:layout_width="wrap_content"-->
+<!--       android:layout_height="wrap_content"-->
+<!--       android:fontFamily="sans-serif-medium"-->
+<!--       android:text="YOUR OWN SPACE"-->
+<!--       android:textColor="#69757B"-->
+<!--       android:textSize="28sp"-->
+<!--       app:layout_constraintBottom_toBottomOf="parent"-->
+<!--       app:layout_constraintEnd_toEndOf="parent"-->
+<!--       app:layout_constraintHorizontal_bias="0.84"-->
+<!--       app:layout_constraintStart_toStartOf="parent"-->
+<!--       app:layout_constraintTop_toTopOf="parent"-->
+<!--       app:layout_constraintVertical_bias="0.096" />-->
+
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
